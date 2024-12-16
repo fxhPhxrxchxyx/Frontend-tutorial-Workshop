@@ -29,3 +29,19 @@ https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 |install package | ```npm install```|
 |Run project| ```npm run dev```|
 |If run success your terminal will show following picture. Then hit command and click  http://localhost:5173/ from your terminal |<img width="300" alt="image" src="https://github.com/user-attachments/assets/d3a9c910-c3f4-4eb6-9005-ef07653c9216" /> |
+
+# for mac only
+- before commit anything into github you need to create file ```.gitIgnore``` in your project (frontend folder) for prevent commit file .Ds_store
+- in  file ```.gitIgnore``` type .Ds_store
+- then you can commit via github desktop or git commandline
+
+# how to commit using git command line
+|command|description|
+|-------|------------|
+|```git init```|cd to your directory folder then type this command to annouce you will using git in this folder|
+|``` git clone``` link| clone your git project to your computer ex:``` git clone https://github.com/fxhPhxrxchxyx/Frontend-tutorial-Workshop.git``` |
+|```cd ``` folder name| open the folder to add some file and commit to github. ex: ```cd frontend```|
+|```git add .```| add all file that you are implement to the git|
+|```git commit -m``` message| commit file with the description message ex: ```git commit -m add homepage```|
+|```git push```| push file into the github you can see your file upload into your repository in the github.com|
+|```git pull```| in case you are implemend code with other you need to pull the repro to get uptodate code|
