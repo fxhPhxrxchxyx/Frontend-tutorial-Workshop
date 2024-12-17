@@ -20,7 +20,7 @@ https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 # init project
 | command     | Description |
 | ----------- | ----------- |
-|run command in terminal ```npm create vite@latest``` |open terminal in vs code and past ```npm create vite@latest``` and hit enter <img width="657" alt="Screenshot 2567-12-16 at 22 26 15" src="https://github.com/user-attachments/assets/96d82629-0e67-43f4-aecd-0083234491b5" /> |
+|run command in terminal ```npm create vite@latest``` |open terminal in vs code and paste ```npm create vite@latest``` and hit enter <img width="657" alt="Screenshot 2567-12-16 at 22 26 15" src="https://github.com/user-attachments/assets/96d82629-0e67-43f4-aecd-0083234491b5" /> |
 |hit enter|<img width="657" alt="image" src="https://github.com/user-attachments/assets/e66b795c-86f9-4fde-a53e-09f5d35506ac" />|
 |type your project name example "frontend"| <img width="604" alt="image" src="https://github.com/user-attachments/assets/42a300c5-beba-4981-9d86-065cf3761f63" />|
 |select framework ```React``` and ```Typescript```| hit down arrow and enter <img width="600" alt="image" src="https://github.com/user-attachments/assets/a1932308-b622-4e53-8217-1064e43acacb" />|
