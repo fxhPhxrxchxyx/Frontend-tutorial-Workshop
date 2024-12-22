@@ -31,8 +31,8 @@ https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 |If run success your terminal will show following picture. Then hit command and click  http://localhost:5173/ from your terminal |<img width="300" alt="image" src="https://github.com/user-attachments/assets/d3a9c910-c3f4-4eb6-9005-ef07653c9216" /> |
 
 # for mac only
-- before commit anything into github you need to create file ```.gitIgnore``` in your project (frontend folder) for prevent commit file .Ds_store
-- in  file ```.gitIgnore``` type .Ds_store
+- before commit anything into github you need to create file ```.gitignore``` in your project (frontend folder) for prevent commit file .DS_store
+- in  file ```.gitignore``` type .DS_store
 - then you can commit via github desktop or git commandline
 
 # how to commit using git command line
